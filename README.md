@@ -35,3 +35,21 @@ Sales – Sales amount (Target variable for analysis)
 Rating – Customer rating
 
 📥 Dataset Link: https://github.com/Chethana-H-C/BlinkIT-Data-Analysis/blob/main/BlinkIT%20Grocery%20Data%20Excel.xlsx
+
+**🔍 Analysis Performed**
+
+The dashboard provides insights into the following:
+
+Total Sales by Fat Content
+
+Total Sales by Item Type
+
+Fat Content by Outlet for Total Sales
+
+Total Sales by Outlet Establishment Year
+
+Sales by Outlet Size
+
+Sales by Outlet Location
+
+All Metrics by Outlet Type
