@@ -57,18 +57,44 @@ Sales by Outlet Location
 All Metrics by Outlet Type
 
 
-**📈 Dashboard Features**
+**Data Cleaning & Transformation ⚡**
 
-Interactive charts and pivot tables
+Handled missing values in Item Weight column.
 
-Clear visualizations for comparing categories
+Standardized Item Fat Content labels for consistency.
 
-Dynamic filters to explore sales data by outlet, location, and item type
+Ensured numeric columns were properly formatted for accurate calculations.
 
 
 **🛠️ Tools Used**
 
 Microsoft Excel: Data Cleaning, Analysis, Visualization,Pivot Table, Pivot Chart, Dashboard Creation
+
+
+**Key Features of the Dashboard 📈**
+
+Interactive Charts & Pivot Tables: Explore data dynamically using filters and slicers.
+
+Comparative Visualizations: Easily compare sales across categories and outlets.
+
+Dynamic Filters: Filter sales data by outlet, location, item type, and fat content.
+
+KPI Cards: Summarize key metrics such as Total Sales, Average Rating, and Sales per Outlet.
+
+Trend Analysis: Visualize sales trends by outlet age and product categories.
+
+
+**Key Insights 📝**
+
+From the analysis, some key findings include:
+
+Low-fat items consistently outperformed high-fat items in Tier 1 locations.
+
+Supermarkets contributed 60% of total sales despite being only 30% of outlets.
+
+Outlets established after 2010 showed higher average sales per product.
+
+Items with higher visibility generally had better sales performance.
 
 
 **📌 Dashboard Preview**
