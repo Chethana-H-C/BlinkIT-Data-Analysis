@@ -34,4 +34,4 @@ Sales – Sales amount (Target variable for analysis)
 
 Rating – Customer rating
 
-📥 Dataset Link: 
+📥 Dataset Link: https://github.com/Chethana-H-C/BlinkIT-Data-Analysis/blob/main/BlinkIT%20Grocery%20Data%20Excel.xlsx
