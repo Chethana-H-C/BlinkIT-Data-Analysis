@@ -68,4 +68,9 @@ Dynamic filters to explore sales data by outlet, location, and item type
 
 **🛠️ Tools Used**
 
-Microsoft Excel: Data Cleaning, Analysis, Visualization, Dashboard Creation
+Microsoft Excel: Data Cleaning, Analysis, Visualization,Pivot Table, Pivot Chart, Dashboard Creation
+
+
+**📌 Dashboard Preview**
+Overall Dashboard
+<img width="1340" height="721" alt="Screenshot-Dashboard" src="https://github.com/user-attachments/assets/abb63233-16c6-4a1f-8920-4184ebfdff92" />
