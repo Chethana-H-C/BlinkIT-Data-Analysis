@@ -38,7 +38,7 @@ Rating – Customer rating
 📥 Dataset Link: https://github.com/Chethana-H-C/BlinkIT-Data-Analysis/blob/main/BlinkIT%20Grocery%20Data%20Excel.xlsx
 
 
-**🔍 Analysis Performed**
+**🔍Analysis Performed**
 
 The dashboard provides insights into the following:
 
@@ -57,7 +57,7 @@ Sales by Outlet Location
 All Metrics by Outlet Type
 
 
-**Data Cleaning & Transformation ⚡**
+**⚡Data Cleaning & Transformation**
 
 Handled missing values in Item Weight column.
 
@@ -66,12 +66,12 @@ Standardized Item Fat Content labels for consistency.
 Ensured numeric columns were properly formatted for accurate calculations.
 
 
-**🛠️ Tools Used**
+**🛠️Tools Used**
 
-Microsoft Excel: Data Cleaning, Analysis, Visualization,Pivot Table, Pivot Chart, Dashboard Creation
+Microsoft Excel: Data Cleaning, Analysis, Visualization, Pivot Table, Pivot Chart, Dashboard Creation
 
 
-**Key Features of the Dashboard 📈**
+**📈Key Features of the Dashboard**
 
 Interactive Charts & Pivot Tables: Explore data dynamically using filters and slicers.
 
@@ -84,7 +84,7 @@ KPI Cards: Summarize key metrics such as Total Sales, Average Rating, and Sales 
 Trend Analysis: Visualize sales trends by outlet age and product categories.
 
 
-**Key Insights 📝**
+**📝Key Insights**
 
 From the analysis, some key findings include:
 
@@ -98,5 +98,6 @@ Items with higher visibility generally had better sales performance.
 
 
 **📌 Dashboard Preview**
+
 Overall Dashboard
 <img width="1340" height="721" alt="Screenshot-Dashboard" src="https://github.com/user-attachments/assets/abb63233-16c6-4a1f-8920-4184ebfdff92" />
