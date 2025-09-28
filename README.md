@@ -59,13 +59,13 @@ All Metrics by Outlet Type
 
 **📈 Dashboard Features**
 
-*Interactive charts and pivot tables
+Interactive charts and pivot tables
 
-*Clear visualizations for comparing categories
+Clear visualizations for comparing categories
 
-*Dynamic filters to explore sales data by outlet, location, and item type
+Dynamic filters to explore sales data by outlet, location, and item type
 
 
 **🛠️ Tools Used**
 
-Microsoft Excel (Data Cleaning, Analysis, Visualization, Dashboard Creation)
+Microsoft Excel: Data Cleaning, Analysis, Visualization, Dashboard Creation
