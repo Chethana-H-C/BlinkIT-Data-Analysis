@@ -6,6 +6,7 @@ This project presents an Excel-based data analysis dashboard built using a retai
 
 The goal of this project is to demonstrate data cleaning, analysis, visualization, and dashboard creation skills in Excel.
 
+
 📂****Dataset Description****
 
 The dataset contains sales and product details with the following columns:
@@ -35,6 +36,7 @@ Sales – Sales amount (Target variable for analysis)
 Rating – Customer rating
 
 📥 Dataset Link: https://github.com/Chethana-H-C/BlinkIT-Data-Analysis/blob/main/BlinkIT%20Grocery%20Data%20Excel.xlsx
+
 
 **🔍 Analysis Performed**
 
