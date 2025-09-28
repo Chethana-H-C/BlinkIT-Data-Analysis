@@ -7,7 +7,7 @@ This project presents an Excel-based data analysis dashboard built using a retai
 The goal of this project is to demonstrate data cleaning, analysis, visualization, and dashboard creation skills in Excel.
 
 
-📂****Dataset Description****
+**📂Dataset Description**
 
 The dataset contains sales and product details with the following columns:
 
@@ -55,3 +55,17 @@ Sales by Outlet Size
 Sales by Outlet Location
 
 All Metrics by Outlet Type
+
+
+**📈 Dashboard Features**
+
+*Interactive charts and pivot tables
+
+*Clear visualizations for comparing categories
+
+*Dynamic filters to explore sales data by outlet, location, and item type
+
+
+**🛠️ Tools Used**
+
+Microsoft Excel (Data Cleaning, Analysis, Visualization, Dashboard Creation)
