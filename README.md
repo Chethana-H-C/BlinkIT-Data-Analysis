@@ -11,6 +11,7 @@ The goal of this project is to demonstrate data cleaning, analysis, visualizatio
 The dataset contains sales and product details with the following columns:
 
 Item Fat Content – Type of item based on fat level
+
 Item Identifier – Unique product code
 Item Type – Category/type of item
 Outlet Establishment Year – Year the outlet was established
