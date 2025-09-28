@@ -4,7 +4,7 @@
 
 This project presents an Excel-based data analysis dashboard built using a retail dataset. The dashboard provides insights into sales performance across different product and outlet attributes, helping to understand the impact of fat content, item type, outlet characteristics, and location factors on overall sales.
 
-The goal of this project is to help retail managers identify high-performing products and optimize sales strategies across outlets.
+The goal of this project is to help retail managers identify high-performing items based on fat content, item type, outlet type, size and location and optimize sales strategies across outlets.
 
 
 **📂Dataset Description**
