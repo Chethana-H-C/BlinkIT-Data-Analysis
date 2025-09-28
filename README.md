@@ -6,7 +6,7 @@ This project presents an Excel-based data analysis dashboard built using a retai
 
 The goal of this project is to demonstrate data cleaning, analysis, visualization, and dashboard creation skills in Excel.
 
-📂**Dataset Description**
+📂****Dataset Description****
 
 The dataset contains sales and product details with the following columns:
 
