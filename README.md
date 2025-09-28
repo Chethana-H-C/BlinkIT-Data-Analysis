@@ -2,9 +2,9 @@
 
 📊**Project Overview**
 
-This project presents an Excel-based data analysis dashboard built using a retail dataset. The dashboard provides insights into sales performance across different product and outlet attributes, helping to understand the impact of fat content, item type, outlet characteristics, and location factors on overall sales.
+This project presents an Excel-based data analysis dashboard built using a retail dataset. The dashboard provides insights into sales performance across different item and outlet attributes, helping to understand the impact of fat content, item type, outlet characteristics, and location factors on overall sales.
 
-The goal of this project is to help retail managers identify high-performing items based on fat content, item type, outlet type, size and location and optimize sales strategies across outlets.
+**Goal:** Help retail managers identify high-performing items and outlets to optimize sales strategies.
 
 
 **📂Dataset Description**
@@ -68,7 +68,7 @@ Ensured numeric columns were properly formatted for accurate calculations.
 
 **🛠️Tools Used**
 
-Microsoft Excel: Data Cleaning, Analysis, Visualization, Pivot Table, Pivot Chart, Dashboard Creation
+Microsoft Excel: Data Cleaning, Analysis, Visualization, Pivot Table, Pivot Chart, Slicers, Dashboard Creation
 
 
 **📈Key Features of the Dashboard**
@@ -88,18 +88,28 @@ Trend Analysis: Visualize sales trends by outlet age and product categories.
 
 From the analysis, some key findings include:
 
-Total Sales: $1.20M with an avg. rating of 4.0
+Total Sales: $1.20M with an avg. rating of 4.0.
 
-Tier 3 outlets drive the highest sales ($472K)
+Tier 3 outlets drive the highest sales ($472K).
 
-Low Fat items contributes to 65% of revenue
+Low Fat items contributes to 65% of revenue.
 
-Fruits & Vegetables are the top-selling category ($178K)
+Fruits & Vegetables are the top-selling category ($178K).
 
-Outlet size and type significantly influences sales
+Outlet size and type significantly influences sales.
 
 
 **📌 Dashboard Preview**
 
 Overall Dashboard
 <img width="1340" height="721" alt="Screenshot-Dashboard" src="https://github.com/user-attachments/assets/abb63233-16c6-4a1f-8920-4184ebfdff92" />
+
+**💼 Business Insights**
+
+Inventory Optimization: Keep popular Low Fat items in stock at top-performing outlets.
+
+Outlet Performance: Compare sales by outlet type and location to find top-performing stores and apply the same strategies in all other outlets.
+
+Product Strategy: Focus on best-selling categories like Fruits & Vegetables for promotions and expansion.
+
+Customer Insights: Use sales and ratings to spot popular products and improve items with lower satisfaction.
