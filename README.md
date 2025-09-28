@@ -88,13 +88,15 @@ Trend Analysis: Visualize sales trends by outlet age and product categories.
 
 From the analysis, some key findings include:
 
-Low-fat items consistently outperformed high-fat items in Tier 1 locations.
+Total Sales: $1.20M with an avg. rating of 4.0
 
-Supermarkets contributed 60% of total sales despite being only 30% of outlets.
+Tier 3 outlets drive the highest sales ($472K)
 
-Outlets established after 2010 showed higher average sales per product.
+Low Fat items contributes to 65% of revenue
 
-Items with higher visibility generally had better sales performance.
+Fruits & Vegetables are the top-selling category ($178K)
+
+Outlet size and type significantly influences sales
 
 
 **📌 Dashboard Preview**
