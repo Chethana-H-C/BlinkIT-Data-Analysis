@@ -11,27 +11,16 @@ The goal of this project is to demonstrate data cleaning, analysis, visualizatio
 The dataset contains sales and product details with the following columns:
 
 Item Fat Content – Type of item based on fat level
-
 Item Identifier – Unique product code
-
 Item Type – Category/type of item
-
 Outlet Establishment Year – Year the outlet was established
-
 Outlet Identifier – Unique outlet code
-
 Outlet Location Type – Tier/location classification of outlet
-
 Outlet Size – Size of the outlet (Small/Medium/Large)
-
 Outlet Type – Type of outlet (Grocery, Supermarket, etc.)
-
 Item Visibility – Visibility percentage of item in store
-
 Item Weight – Weight of item
-
 Sales – Sales amount (Target variable for analysis)
-
 Rating – Customer rating
 
 📥 Dataset Link: 
